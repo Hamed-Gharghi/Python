@@ -1,11 +1,11 @@
-# HelloWorld Python Example 🌟
+# HelloWorld Python Example 🌟 | Python Tutorial for Beginners
 
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 ![HelloWorld](https://img.shields.io/badge/status-active-brightgreen.svg)
 
 ## Overview
 
-Welcome to the **HelloWorld** folder in the Python repository! This directory contains a basic Python script designed to demonstrate fundamental Python syntax by printing a simple message to the console. This example is a great starting point for beginners learning Python.
+Welcome to the **HelloWorld Python Example** repository! This project contains a basic Python script designed to demonstrate fundamental Python syntax by printing a simple message to the console. This example is perfect for **beginner Python programmers** and serves as an introductory tutorial to Python programming.
 
 ## Folder Contents
 
@@ -13,7 +13,7 @@ Welcome to the **HelloWorld** folder in the Python repository! This directory co
 
 ## How to Use
 
-To run the `HelloWorld.py` script, follow these steps:
+To run the `HelloWorld.py` script, follow the instructions below for different environments.
 
 ### Running on Windows 🖥️
 
@@ -31,7 +31,7 @@ To run the `HelloWorld.py` script, follow these steps:
      ```sh
      python HelloWorld.py
      ```
-   - Ensure that Python is installed and added to your system's PATH.
+   - Ensure Python is installed and added to your system's PATH.
 
 ### Running on macOS/Linux 🖥️
 
@@ -49,7 +49,7 @@ To run the `HelloWorld.py` script, follow these steps:
      ```sh
      python3 HelloWorld.py
      ```
-   - Ensure that Python 3 is installed and accessible from your PATH.
+   - Ensure Python 3 is installed and accessible from your PATH.
 
 ### Using PyCharm 🧑‍💻
 
@@ -90,6 +90,15 @@ To run the `HelloWorld.py` script, follow these steps:
 
 - **Python 3.x**: Ensure Python 3.x is installed on your system.
 - **IDE/Text Editor**: PyCharm or VSCode is recommended for a better development experience.
+
+## Repository Topics
+
+Add relevant topics to help others find this project:
+- `python`
+- `beginner`
+- `tutorial`
+- `example`
+- `hello-world`
 
 ## Contact
 
