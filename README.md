@@ -1,10 +1,10 @@
 ![Python-01](https://github.com/user-attachments/assets/d66e1eba-5c88-4628-bdf0-59633128321f)
 
-# Python Scripts Repository 🐍
+# Python Scripts Repository
 
 Welcome to the Python Scripts Repository! This repository contains a collection of Python scripts, including basic examples like "Hello World" and more advanced scripts organized into different categories.
 
-[**English**](#python-scripts-repository-🐍) | [**فارسی**](#سورس-کدهای-پایتون-🐍)
+[**English**](#python-scripts-repository) | [**فارسی**](#سورس-کدهای-پایتون)
 
 ## Getting Started 🚀
 
@@ -63,7 +63,7 @@ To run any script from this repository, follow these steps:
 
 <div class="rtl">
 
-# سورس کدهای پایتون 🐍
+# سورس کدهای پایتون
 
 به مخزن سورس کدهای پایتون خوش آمدید! این مخزن شامل مجموعه‌ای از اسکریپت‌های پایتون است، از جمله مثال‌های ساده مانند "Hello World" و اسکریپت‌های پیشرفته‌تر که در دسته‌های مختلف سازماندهی شده‌اند.
 
