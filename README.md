@@ -4,20 +4,7 @@
 
 Welcome to the Python Scripts Repository! This repository contains a collection of Python scripts, including basic examples like "Hello World" and more advanced scripts organized into different categories.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Installing Python](#installing-python)
-- [Recommended IDEs](#recommended-ides)
-- [Running the Scripts](#running-the-scripts)
-- [Script Descriptions](#script-descriptions)
-  - [Hello World](#hello-world)
-  - [Data Processing](#data-processing)
-  - [APIs](#apis)
-  - [Automation Scripts](#automation-scripts)
-  - [Others](#others)
-- [Additional Resources](#additional-resources)
-- [License](#license)
+[**English**](#python-scripts-repository) | [**فارسی**](#سورس-کدهای-پایتون)
 
 ## Getting Started
 
@@ -60,6 +47,58 @@ To write and run Python code more efficiently, you can use an Integrated Develop
 To run any script from this repository, follow these steps:
 
 1. **Clone the Repository**:
+   ```sh
+   git clone https://github.com/your-username/Python-Scripts.git
+   cd Python-Scripts
+
+
+# سورس کدهای پایتون
+
+به مخزن سورس کدهای پایتون خوش آمدید! این مخزن شامل مجموعه‌ای از اسکریپت‌های پایتون است، از جمله مثال‌های ساده مانند "Hello World" و اسکریپت‌های پیشرفته‌تر که در دسته‌های مختلف سازماندهی شده‌اند.
+
+[**English**](#python-scripts-repository) | [**فارسی**](#سورس-کدهای-پایتون)
+
+## شروع کار
+
+### نصب پایتون
+
+برای اجرای اسکریپت‌های این مخزن، باید پایتون را روی دستگاه خود نصب کرده باشید. مراحل زیر را برای نصب پایتون دنبال کنید:
+
+1. **دانلود پایتون**:
+   - به وب‌سایت رسمی پایتون بروید: [Python.org](https://www.python.org/)
+   - به بخش [دانلودها](https://www.python.org/downloads/) بروید.
+   - نسخه مناسب برای سیستم‌عامل خود (ویندوز، macOS، یا لینوکس) را انتخاب کرده و نصب‌کننده را دانلود کنید.
+
+2. **نصب پایتون**:
+   - نصب‌کننده دانلود شده را اجرا کنید.
+   - در طول نصب، اطمینان حاصل کنید که گزینه "Add Python to PATH" را تیک بزنید تا پایتون به متغیرهای محیطی سیستم شما اضافه شود.
+   - مراحل نصب را دنبال کنید تا نصب کامل شود.
+
+3. **بررسی نصب**:
+   - رابط خط فرمان (CLI) خود را باز کنید (Command Prompt در ویندوز، Terminal در macOS/Linux).
+   - تایپ کنید `python --version` یا `python3 --version` و Enter را فشار دهید. باید نسخه نصب شده پایتون را مشاهده کنید.
+
+### IDEهای پیشنهادی
+
+برای نوشتن و اجرای کد پایتون به طور مؤثرتر، می‌توانید از یک محیط توسعه یکپارچه (IDE) استفاده کنید. در اینجا برخی از انتخاب‌های محبوب آورده شده است:
+
+1. **PyCharm**:
+   - دانلود: [PyCharm Download](https://soft98.ir/software/programming/1652-pycharm.html)
+   - PyCharm یک IDE قدرتمند به ویژه برای پایتون است که مجموعه‌ای از ویژگی‌ها و افزونه‌های مفید را ارائه می‌دهد.
+
+2. **Visual Studio Code (VSCode)**:
+   - دانلود: [VSCode Download](https://code.visualstudio.com/)
+   - VSCode یک ویرایشگر کد چندمنظوره و سبک است که پشتیبانی عالی از پایتون از طریق افزونه‌ها را ارائه می‌دهد.
+
+3. **Python IDLE**:
+   - Python IDLE به همراه نصب پایتون ارائه می‌شود.
+   - این یک IDE ساده و آسان برای مبتدیان است که یک رابط ساده برای نوشتن و اجرای کد پایتون را ارائه می‌دهد.
+
+## اجرای اسکریپت‌ها
+
+برای اجرای هر اسکریپت از این مخزن، مراحل زیر را دنبال کنید:
+
+1. **کلون کردن مخزن**:
    ```sh
    git clone https://github.com/your-username/Python-Scripts.git
    cd Python-Scripts
