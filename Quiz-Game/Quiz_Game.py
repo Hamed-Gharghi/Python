@@ -183,13 +183,10 @@ def quiz_game():
     # Shuffle the questions
     random.shuffle(questions)
 
-    # Select the first 5 questions
-    questions = questions[:5]
-
     # Initialize the score
     score = 0
 
-    # Iterate through the questions
+    # Iterate through the shuffled questions
     for q in questions:
         # Ask the question
         print(q["question"])
@@ -213,6 +210,5 @@ def quiz_game():
     # Print the final score
     print(f"Your final score is {score} out of {len(questions)}")
 
-
 # Run the quiz
-quiz_game()
+run_quiz()
