@@ -10,7 +10,7 @@ Welcome to the **HelloWorld Python Example** repository! This project contains a
 ## Navigation
 
 - [English Version](#english-version)
-- [نسخه فارسی](#persian-version)
+- [نسخه فارسی](#نسخه-فارسی)
 
 ## English Version
 
