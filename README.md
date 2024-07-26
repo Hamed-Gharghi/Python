@@ -48,15 +48,7 @@ To write and run Python code more efficiently, you can use an Integrated Develop
 
    ![Python IDLE](https://img.shields.io/badge/IDE-Python_IDE-yellowgreen)
 
-## Running the Scripts 🏃
 
-To run any script from this repository, follow these steps:
-
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/your-username/Python-Scripts.git
-   cd Python-Scripts
-  
 ![Python-01](https://github.com/user-attachments/assets/d66e1eba-5c88-4628-bdf0-59633128321f)
 
 
@@ -113,11 +105,3 @@ To run any script from this repository, follow these steps:
 
    ![Python IDLE](https://img.shields.io/badge/IDE-Python_IDE-yellowgreen)
 
-## اجرای اسکریپت‌ها 🏃
-
-برای اجرای هر اسکریپت از این مخزن، مراحل زیر را دنبال کنید:
-
-1. **کلون کردن مخزن**:
-   ```sh
-   git clone https://github.com/your-username/Python-Scripts.git
-   cd Python-Scripts
