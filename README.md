@@ -1,12 +1,12 @@
 ![Python-01](https://github.com/user-attachments/assets/d66e1eba-5c88-4628-bdf0-59633128321f)
 
-# Python Scripts Repository
+# Python Scripts Repository 🐍
 
 Welcome to the Python Scripts Repository! This repository contains a collection of Python scripts, including basic examples like "Hello World" and more advanced scripts organized into different categories.
 
 [**English**](#python-scripts-repository) | [**فارسی**](#سورس-کدهای-پایتون)
 
-## Getting Started
+## Getting Started 🚀
 
 ### Installing Python
 
@@ -26,7 +26,7 @@ To run the scripts in this repository, you need to have Python installed on your
    - Open your command line interface (CLI) (Command Prompt on Windows, Terminal on macOS/Linux).
    - Type `python --version` or `python3 --version` and press Enter. You should see the installed Python version.
 
-### Recommended IDEs
+### Recommended IDEs 💻
 
 To write and run Python code more efficiently, you can use an Integrated Development Environment (IDE). Here are some popular choices:
 
@@ -34,15 +34,21 @@ To write and run Python code more efficiently, you can use an Integrated Develop
    - Download: [PyCharm Download](https://www.jetbrains.com/pycharm/download/)
    - PyCharm is a powerful IDE specifically for Python, offering a rich set of features and plugins.
 
+   ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-blue)
+
 2. **Visual Studio Code (VSCode)**:
    - Download: [VSCode Download](https://code.visualstudio.com/)
    - VSCode is a versatile and lightweight code editor with excellent Python support through extensions.
+
+   ![VSCode](https://img.shields.io/badge/IDE-VSCode-blue)
 
 3. **Python IDLE**:
    - Python IDLE comes bundled with Python installation.
    - It’s a simple and easy-to-use IDE for beginners, offering a straightforward interface to write and run Python code.
 
-## Running the Scripts
+   ![Python IDLE](https://img.shields.io/badge/IDE-Python_IDE-yellowgreen)
+
+## Running the Scripts 🏃
 
 To run any script from this repository, follow these steps:
 
@@ -50,15 +56,20 @@ To run any script from this repository, follow these steps:
    ```sh
    git clone https://github.com/your-username/Python-Scripts.git
    cd Python-Scripts
+  
+![Python-01](https://github.com/user-attachments/assets/d66e1eba-5c88-4628-bdf0-59633128321f)
 
 
-# سورس کدهای پایتون
+
+<div class="rtl">
+
+# سورس کدهای پایتون 🐍
 
 به مخزن سورس کدهای پایتون خوش آمدید! این مخزن شامل مجموعه‌ای از اسکریپت‌های پایتون است، از جمله مثال‌های ساده مانند "Hello World" و اسکریپت‌های پیشرفته‌تر که در دسته‌های مختلف سازماندهی شده‌اند.
 
 [**English**](#python-scripts-repository) | [**فارسی**](#سورس-کدهای-پایتون)
 
-## شروع کار
+## شروع کار 🚀
 
 ### نصب پایتون
 
@@ -78,7 +89,7 @@ To run any script from this repository, follow these steps:
    - رابط خط فرمان (CLI) خود را باز کنید (Command Prompt در ویندوز، Terminal در macOS/Linux).
    - تایپ کنید `python --version` یا `python3 --version` و Enter را فشار دهید. باید نسخه نصب شده پایتون را مشاهده کنید.
 
-### IDEهای پیشنهادی
+### IDEهای پیشنهادی 💻
 
 برای نوشتن و اجرای کد پایتون به طور مؤثرتر، می‌توانید از یک محیط توسعه یکپارچه (IDE) استفاده کنید. در اینجا برخی از انتخاب‌های محبوب آورده شده است:
 
@@ -86,15 +97,21 @@ To run any script from this repository, follow these steps:
    - دانلود: [PyCharm Download](https://soft98.ir/software/programming/1652-pycharm.html)
    - PyCharm یک IDE قدرتمند به ویژه برای پایتون است که مجموعه‌ای از ویژگی‌ها و افزونه‌های مفید را ارائه می‌دهد.
 
+   ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-blue)
+
 2. **Visual Studio Code (VSCode)**:
    - دانلود: [VSCode Download](https://code.visualstudio.com/)
    - VSCode یک ویرایشگر کد چندمنظوره و سبک است که پشتیبانی عالی از پایتون از طریق افزونه‌ها را ارائه می‌دهد.
+
+   ![VSCode](https://img.shields.io/badge/IDE-VSCode-blue)
 
 3. **Python IDLE**:
    - Python IDLE به همراه نصب پایتون ارائه می‌شود.
    - این یک IDE ساده و آسان برای مبتدیان است که یک رابط ساده برای نوشتن و اجرای کد پایتون را ارائه می‌دهد.
 
-## اجرای اسکریپت‌ها
+   ![Python IDLE](https://img.shields.io/badge/IDE-Python_IDE-yellowgreen)
+
+## اجرای اسکریپت‌ها 🏃
 
 برای اجرای هر اسکریپت از این مخزن، مراحل زیر را دنبال کنید:
 
