@@ -50,14 +50,8 @@ To write and run Python code more efficiently, you can use an Integrated Develop
 
 
 ***
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-***
+<br> </br>
+___
 
 ![Python-01](https://github.com/user-attachments/assets/d66e1eba-5c88-4628-bdf0-59633128321f)
 
