@@ -4,7 +4,7 @@
 
 Welcome to the Python Scripts Repository! This repository contains a collection of Python scripts, including basic examples like "Hello World" and more advanced scripts organized into different categories.
 
-[**English**](#python-scripts-repository) | [**فارسی**](#سورس-کدهای-پایتون)
+[**English**](#python-scripts-repository-🐍) | [**فارسی**](#سورس-کدهای-پایتون-🐍)
 
 ## Getting Started 🚀
 
