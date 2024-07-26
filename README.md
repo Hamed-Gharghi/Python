@@ -49,6 +49,18 @@ To write and run Python code more efficiently, you can use an Integrated Develop
    ![Python IDLE](https://img.shields.io/badge/IDE-Python_IDE-yellowgreen)
 
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ![Python-01](https://github.com/user-attachments/assets/d66e1eba-5c88-4628-bdf0-59633128321f)
 
 
@@ -61,8 +73,6 @@ To write and run Python code more efficiently, you can use an Integrated Develop
 
 
 
-<br>
-<br>
 
 
 <div class="rtl">
