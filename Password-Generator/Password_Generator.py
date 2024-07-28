@@ -5,8 +5,9 @@
 import random
 import string
 
+
 def generate_password(length):
-    #Generate a random password of a specified length between 8 and 16 characters.
+    # Generate a random password of a specified length between 8 and 16 characters.
     if length < 8 or length > 16:
         return "Password length must be between 8 and 16 characters."
 
@@ -33,9 +34,10 @@ def generate_password(length):
 
     # Shuffle the list to ensure random order
     random.shuffle(password)
-    
+
     # Convert list to string
     return ''.join(password)
+
 
 print("Welcome to the Password Generator!")
 length = int(input("Enter the desired password length (8 to 16): "))
