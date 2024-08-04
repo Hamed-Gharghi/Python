@@ -1,10 +1,16 @@
 ![Python-01](https://github.com/user-attachments/assets/d66e1eba-5c88-4628-bdf0-59633128321f)
-
+<!-- Blue Badge -->
+![View Count](https://komarev.com/ghpvc/?username=Hamed-Gharghi&color=blue&style=for-the-badge)
 # Python Scripts Repository
 
 Welcome to the Python Scripts Repository! This repository contains a collection of Python scripts, including basic examples like "Hello World" and more advanced scripts organized into different categories.
 
 [**English**](#python-scripts-repository) | [**فارسی**](#سورس-کدهای-پایتون)
+
+
+
+
+
 
 ## Getting Started 🚀
 
@@ -48,28 +54,14 @@ To write and run Python code more efficiently, you can use an Integrated Develop
 
    ![Python IDLE](https://img.shields.io/badge/IDE-Python_IDE-yellowgreen)
 
+---
 
-***
 <br> </br>
 ___
 
 ![Python-01](https://github.com/user-attachments/assets/d66e1eba-5c88-4628-bdf0-59633128321f)
 
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="rtl">
-
-
 
 # سورس کدهای پایتون
 
@@ -119,3 +111,4 @@ ___
 
    ![Python IDLE](https://img.shields.io/badge/IDE-Python_IDE-yellowgreen)
 
+</div>
